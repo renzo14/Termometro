@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32CustomPines_sym")(type "KiCad")(uri "${KIPRJMOD}/ESP32CustomPines_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "TM1620")(type "KiCad")(uri "${KIPRJMOD}/TM1620.kicad_sym")(options "")(descr ""))
+  (lib (name "TM1620y7seg")(type "KiCad")(uri "${KIPRJMOD}/TM1620y7seg.kicad_sym")(options "")(descr ""))
+)
